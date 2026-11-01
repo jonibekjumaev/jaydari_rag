@@ -1,0 +1,11 @@
+#local enviroment
+.env
+
+#Python 
+__pycache__
+*.pyc
+
+#Editor
+.vscode
+
+.idea
